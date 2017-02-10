@@ -20,7 +20,6 @@ namespace WorkshopF
                                   {64,71,67,25,0,0},
                                   {16,93,46,72,0,0} };
 
-            
             for (int i = 0; i < 12; i++)
             {
                 double sum = 0;
